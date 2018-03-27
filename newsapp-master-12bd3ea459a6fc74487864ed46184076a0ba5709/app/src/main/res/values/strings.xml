@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" color="@color/colorPrimary">The</string>
+    <string name="W" color="@color/colorAccent">W</string>
+    <string name="all" color="@color/colorPrimary">all</string>
+</resources>
